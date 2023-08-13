@@ -52,3 +52,5 @@ function vote() {
 
 console.log('Simulação de Eleição\n');
 vote();
+
+
